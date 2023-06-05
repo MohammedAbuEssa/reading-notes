@@ -2,6 +2,8 @@ Table of contents                                                               
 -----------------------------------------------------------------------------------------------------------------------| 
 [Code 401 - Reading Class - 02](https://github.com/MohammedAbuEssa/reading-notes/blob/main/README.md#code-401---reading-class---02) |
 [Code 401 - Reading Class - 01](https://github.com/MohammedAbuEssa/reading-notes/tree/main#code-401---reading-class---01) |
+[Data Structures and Algorithms]() |
+
 
 
 # Code 401 - Reading Class - 02
@@ -122,3 +124,6 @@ Node provides the necessary resources and software environment to execute JavaSc
 **3. What are the typical applications of Node?**
 
 Node is commonly used for backend development, handling server-side operations for web applications and APIs.
+
+
+#Data Structures and Algorithms
