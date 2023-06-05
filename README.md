@@ -6,7 +6,7 @@ Table of contents                                                               
 
 # Code 401 - Reading Class - 01
 
-** 1. How can you explain Node to someone without technical knowledge? **
+**1. How can you explain Node to someone without technical knowledge?**
 
 Node is a technology that extends the capabilities of JavaScript beyond just running in web browsers. It allows developers to use JavaScript on servers, enabling them to build powerful and interactive web applications.
 
