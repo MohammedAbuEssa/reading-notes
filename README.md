@@ -5,6 +5,8 @@ Table of contents                                                               
 [Data Structures and Algorithms]() |
 
 
+# Data Structures and Algorithms
+
 
 # Code 401 - Reading Class - 02
 
@@ -126,4 +128,3 @@ Node provides the necessary resources and software environment to execute JavaSc
 Node is commonly used for backend development, handling server-side operations for web applications and APIs.
 
 
-#Data Structures and Algorithms
