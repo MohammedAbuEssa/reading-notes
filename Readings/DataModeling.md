@@ -30,3 +30,5 @@ Normalization in databases eliminates redundancy, improves integrity, and optimi
 One to one is like your relation between you and your passport,
 One to many is like you and your clothes,
 Many to many is like the relation between the students and the courses.
+
+[Main Page](../README.md)

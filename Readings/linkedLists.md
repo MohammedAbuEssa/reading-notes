@@ -19,26 +19,31 @@ Quiz:
    d) A data structure that allows for efficient random access operations.
 
 **2. What is the advantage of a linked list over an array?**
+
 - a) Faster access times for random elements
 - b) Contiguous memory allocation
 - c) Dynamic memory allocation and efficient insertion/removal operations
 - d) Ability to store elements in a circular manner
 
 **3. In a singly linked list, each node contains a reference to:**
--    a) The previous node
- -   b) The next node
--    c) Both the previous and next nodes
--    d) A random node within the list
+
+- a) The previous node
+- b) The next node
+- c) Both the previous and next nodes
+- d) A random node within the list
 
 **4. Which type of linked list allows traversal in both directions?**
--    a) Singly linked list
--    b) Doubly linked list
--    c) Circular linked list
- -   d) Stack
+
+- a) Singly linked list
+- b) Doubly linked list
+- c) Circular linked list
+- d) Stack
 
 **5. What is a potential drawback of linked lists?**
- -   a) Inefficient insertion and removal operations
--    b) Limited storage capacity
--    c) Difficulty in implementing stack operations
- -   d) Inability to store elements in a sorted order
 
+- a) Inefficient insertion and removal operations
+- b) Limited storage capacity
+- c) Difficulty in implementing stack operations
+- d) Inability to store elements in a sorted order
+
+[Main Page](../README.md)
