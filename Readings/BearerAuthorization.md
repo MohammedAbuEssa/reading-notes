@@ -29,7 +29,7 @@
 
 ---
 
-[JWTs Explained](https://www.youtube.com/watch?v=926mknSW9Lo)
+## [JWTs Explained](https://www.youtube.com/watch?v=926mknSW9Lo)
 
 1. Why use JWT?
    Securely transfer information between any tow bodies.
