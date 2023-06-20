@@ -7,3 +7,4 @@
 | [Linked Lists](./Readings/linkedLists.md)                                   |
 | [Data Modeling](./Readings/DataModeling.md)                                 |
 | [Authentication](./Readings/Authentication.md)                              |
+| [Bearer Authorization](./Readings/BearerAuthorization.md)                   |
