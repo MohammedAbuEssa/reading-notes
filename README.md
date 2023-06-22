@@ -8,3 +8,4 @@
 | [Data Modeling](./Readings/DataModeling.md)                                 |
 | [Authentication](./Readings/Authentication.md)                              |
 | [Bearer Authorization](./Readings/BearerAuthorization.md)                   |
+| [Access Control (ACL)](./Readings/AccessControlACL.md)                      |
