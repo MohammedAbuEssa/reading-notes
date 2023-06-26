@@ -58,4 +58,4 @@ Continuous Delivery is a development approach where software is built and tested
 
 GitHub serves as a central platform for software development and collaboration. It provides features for version control and enables developers to contribute to code repositories. In the context of the CI/CD process, GitHub allows teams to integrate Continuous Integration tools and workflows, enabling automated testing, code reviews, and deployment processes.
 
-[Main Page](../README.md)
+## [Main Page](../README.md)

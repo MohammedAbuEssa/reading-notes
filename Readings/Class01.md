@@ -14,4 +14,4 @@ Node is commonly used for backend development, handling server-side operations f
 
 ## Things I want to know more about
 
-[Main Page](../README.md)
+## [Main Page](../README.md)

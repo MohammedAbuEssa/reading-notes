@@ -46,4 +46,4 @@ Quiz:
 - c) Difficulty in implementing stack operations
 - d) Inability to store elements in a sorted order
 
-[Main Page](../README.md)
+## [Main Page](../README.md)
