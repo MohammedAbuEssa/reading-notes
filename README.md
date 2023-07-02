@@ -10,3 +10,4 @@
 | [Bearer Authorization](./Readings/BearerAuthorization.md)                   |
 | [Access Control (ACL)](./Readings/AccessControlACL.md)                      |
 | [Authorization/Authentication](./Readings/AuthorizationAuthentication.md)   |
+| [Stacks and Queues](./Readings/StacksandQueues.md)                          |
