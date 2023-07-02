@@ -9,4 +9,4 @@
 | [Authentication](./Readings/Authentication.md)                              |
 | [Bearer Authorization](./Readings/BearerAuthorization.md)                   |
 | [Access Control (ACL)](./Readings/AccessControlACL.md)                      |
-| [Authorization/Authentication](./Readings/AuthorizationAuthentication.md)           |
+| [Authorization/Authentication](./Readings/AuthorizationAuthentication.md)   |
