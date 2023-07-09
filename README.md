@@ -12,4 +12,5 @@
 | [Authorization/Authentication](./Readings/AuthorizationAuthentication.md)   |
 | [Stacks and Queues](./Readings/StacksandQueues.md)                          |
 | [Event Driven Applications](./Readings/EventDrivenApplications.md)          |
-| [Socket.io](./Readings/Socket.io.md)          |
+| [Socket.io](./Readings/Socket.io.md)                                        |
+| [Message Queues](./Readings/MessageQueues.md)                               |
