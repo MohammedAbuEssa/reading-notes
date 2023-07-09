@@ -53,4 +53,8 @@
    - You want to create a special namespace that only authorized users have access to, so the logic related to those users is separated from the rest of the application.
    - Your application has multiple tenants so you want to dynamically create one namespace per tenant.
 
+---
+
+## [Socket.io Emit Cheatsheet](https://socket.io/docs/v4/emit-cheatsheet/)
+
 ## [Main Page](../README.md)
