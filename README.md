@@ -15,3 +15,4 @@
 | [Socket.io](./Readings/Socket.io.md)                                          |
 | [Message Queues](./Readings/MessageQueues.md)                                 |
 | [Event Driven Architecture PR ideas](./Readings/EventDrivenApplicationsPR.md) |
+| [Tree](./Readings/Tree.md)                                                    |
