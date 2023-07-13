@@ -16,3 +16,4 @@
 | [Message Queues](./Readings/MessageQueues.md)                                 |
 | [Event Driven Architecture PR ideas](./Readings/EventDrivenApplicationsPR.md) |
 | [Tree](./Readings/Tree.md)                                                    |
+| [AWS: Cloud Servers](./Readings/AWSCloudServers.md)                           |
