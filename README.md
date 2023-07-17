@@ -17,3 +17,4 @@
 | [Event Driven Architecture PR ideas](./Readings/EventDrivenApplicationsPR.md) |
 | [Tree](./Readings/Tree.md)                                                    |
 | [AWS: Cloud Servers](./Readings/AWSCloudServers.md)                           |
+| [AWS: S3 and Lambda](./Readings/AWSS3Lambda.md)                               |
