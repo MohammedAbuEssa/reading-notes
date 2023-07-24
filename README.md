@@ -19,3 +19,4 @@
 | [AWS: Cloud Servers](./Readings/AWSCloudServers.md)                           |
 | [AWS: S3 and Lambda](./Readings/AWSS3Lambda.md)                               |
 | [AWS: Events](./Readings/AWSEvents.md)                                        |
+| [AWS: API, Dynamo and Lambda](./Readings/AWSDynamoLambda.md)                  |
