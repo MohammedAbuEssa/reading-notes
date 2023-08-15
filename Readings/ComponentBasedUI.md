@@ -75,6 +75,6 @@
 
 ## [sass cheatsheet](https://devhints.io/sass)
 
-## [react cheatsheet](react cheatsheet)
+## [react cheatsheet](https://devhints.io/react)
 
 ## [Main Page](../README.md)
