@@ -30,4 +30,5 @@
 | Table of contents                                      |
 | ------------------------------------------------------ |
 | [Component Based UI](././Readings/ComponentBasedUI.md) |
-| [useState() Hook](././Readings/ComponentBasedUI.md)    |
+| [useState() Hook](././Readings/useStateHook.md)        |
+| [useEffect() Hook](././Readings/useEffectHook.md)      |
