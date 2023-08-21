@@ -29,8 +29,6 @@
 
 ---
 
----
-
 ## [useReducer hook](https://react.dev/reference/react/useReducer)
 
 ## [Keeping Components Pure](https://react.dev/learn/keeping-components-pure)

@@ -27,8 +27,9 @@
 
 ## FrontEnd
 
-| Table of contents                                      |
-| ------------------------------------------------------ |
-| [Component Based UI](././Readings/ComponentBasedUI.md) |
-| [useState() Hook](././Readings/useStateHook.md)        |
-| [useEffect() Hook](././Readings/useEffectHook.md)      |
+| Table of contents                                              |
+| -------------------------------------------------------------- |
+| [Component Based UI](././Readings/ComponentBasedUI.md)         |
+| [useState() Hook](././Readings/useStateHook.md)                |
+| [useEffect() Hook](././Readings/useEffectHook.md)              |
+| [useReducer() Hook](././Readings/AdvancedStatewithReducers.md) |
