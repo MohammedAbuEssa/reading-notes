@@ -33,3 +33,4 @@
 | [useState() Hook](././Readings/useStateHook.md)                |
 | [useEffect() Hook](././Readings/useEffectHook.md)              |
 | [useReducer() Hook](././Readings/AdvancedStatewithReducers.md) |
+| [Hash Tables](././Readings/HashTables.md)                      |
