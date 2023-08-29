@@ -1,4 +1,4 @@
-# Component Lifecycle / useEffect Hook
+# Context API - Behaviors
 
 ### [Choosing the State Structure](https://react.dev/learn/choosing-the-state-structure)
 
