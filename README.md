@@ -36,3 +36,4 @@
 | [Hash Tables](././Readings/HashTables.md)                      |
 | [Context API](././Readings/ContextAPI.md)                      |
 | [Context API - Behaviors](././Readings/ContextAPI.md)          |
+| [Login and Auth ](././Readings/LoginandAuth.md)                |
