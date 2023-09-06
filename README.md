@@ -38,3 +38,4 @@
 | [Context API - Behaviors](././Readings/ContextAPI.md)          |
 | [Login and Auth ](././Readings/LoginandAuth.md)                |
 | [API Integration](././Readings/APIIntegration.md)              |
+| [Graphs](././Readings/GraphsQuiz.md)                           |
