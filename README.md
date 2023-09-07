@@ -27,15 +27,16 @@
 
 ## FrontEnd
 
-| Table of contents                                              |
-| -------------------------------------------------------------- |
-| [Component Based UI](././Readings/ComponentBasedUI.md)         |
-| [useState() Hook](././Readings/useStateHook.md)                |
-| [useEffect() Hook](././Readings/useEffectHook.md)              |
-| [useReducer() Hook](././Readings/AdvancedStatewithReducers.md) |
-| [Hash Tables](././Readings/HashTables.md)                      |
-| [Context API](././Readings/ContextAPI.md)                      |
-| [Context API - Behaviors](././Readings/ContextAPI.md)          |
-| [Login and Auth ](././Readings/LoginandAuth.md)                |
-| [API Integration](././Readings/APIIntegration.md)              |
-| [Graphs](././Readings/GraphsQuiz.md)                           |
+| Table of contents                                                         |
+| ------------------------------------------------------------------------- |
+| [Component Based UI](././Readings/ComponentBasedUI.md)                    |
+| [useState() Hook](././Readings/useStateHook.md)                           |
+| [useEffect() Hook](././Readings/useEffectHook.md)                         |
+| [useReducer() Hook](././Readings/AdvancedStatewithReducers.md)            |
+| [Hash Tables](././Readings/HashTables.md)                                 |
+| [Context API](././Readings/ContextAPI.md)                                 |
+| [Context API - Behaviors](././Readings/ContextAPI.md)                     |
+| [Login and Auth ](././Readings/LoginandAuth.md)                           |
+| [API Integration](././Readings/APIIntegration.md)                         |
+| [Graphs](././Readings/GraphsQuiz.md)                                      |
+| [Application State with Redux](././Readings/ApplicationStatewithRedux.md) |
