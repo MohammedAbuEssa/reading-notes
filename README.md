@@ -40,3 +40,4 @@
 | [API Integration](././Readings/APIIntegration.md)                         |
 | [Graphs](././Readings/GraphsQuiz.md)                                      |
 | [Application State with Redux](././Readings/ApplicationStatewithRedux.md) |
+| [Redux - Combined Reducers](././Readings/ReduxCombinedReducers.md)        |
