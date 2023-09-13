@@ -41,3 +41,4 @@
 | [Graphs](././Readings/GraphsQuiz.md)                                      |
 | [Application State with Redux](././Readings/ApplicationStatewithRedux.md) |
 | [Redux - Combined Reducers](././Readings/ReduxCombinedReducers.md)        |
+| [Redux - Asynchronous Actions](././Readings/ReduxAsynchronousActions.md)  |
