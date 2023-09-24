@@ -43,3 +43,9 @@
 | [Redux - Combined Reducers](././Readings/ReduxCombinedReducers.md)        |
 | [Redux - Asynchronous Actions](././Readings/ReduxAsynchronousActions.md)  |
 | [Redux - Additional Topics](././Readings/ReduxAdditionalTopics.md)        |
+
+## Additional topics
+
+| Table of contents                           |
+| ------------------------------------------- |
+| [React Native](././Readings/ReactNative.md) |
